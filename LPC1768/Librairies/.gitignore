@@ -1,0 +1,11 @@
+## µVision5 : Librairies
+
+/*/Objects
+/*/Listings
+/*/DebugConfig
+/*/CMSIS
+*.s
+*.scvd
+*.uvprojx
+*.uvoptx
+*uvguix*
